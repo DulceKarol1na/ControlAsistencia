@@ -1,0 +1,14 @@
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: #d8da3d }
+
+.nav{
+     padding-left: 300px;
+}
+
+.container {
+    background-color: rgb(52, 197, 129);
+}
